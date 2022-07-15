@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="eurocarb-glycanbuilder-1.0rc.jar" sourcepath="src"/>
+	<classpathentry exported="true" kind="lib" path="eurocarb-glycopeakfinder-1.0rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="eurocarb-glycoworkbench-1.0rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="eurocarb-resourcesdb-1.0rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="glycomedb-residue-translator-0.1-b7.jar"/>
+	<classpathentry exported="true" kind="lib" path="resourcesdb_interfaces.jar"/>
+	<classpathentry exported="true" kind="lib" path="glycome_molecular_framework-0.1-b25.jar"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
